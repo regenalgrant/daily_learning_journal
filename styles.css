@@ -1,0 +1,119 @@
+
+
+header {
+  text-align: center;
+  background: red;
+  color: #fff;
+  margin-bottom: 0px;
+}
+
+header h2 {
+
+header
+{
+	text-align: center;
+  background: red;
+  color: #fff;
+  padding: 10px 10px 10px 10px;
+}
+
+header h2
+{
+
+  text-align: center;
+  background: blue;
+  color: #fff;
+  padding: 10px 10px 10px 10px;
+
+  margin-bottom: 0px;
+}
+
+body {
+  background: #666;
+}
+
+a {
+  color: #c79ecb;
+}
+
+main li {
+  color: #00b233;
+}
+
+span.mainlistitems {
+  color: #88fcff;
+}
+
+main h2 {
+  color: #c1d7df;
+  margin: 0px 20px 20px 20px;
+}
+
+main ul {
+  margin: 20px;
+}
+
+footer {
+  padding: 10px;
+  color: #c1d7df;
+  background: #555;
+}
+
+.footerorderlist {
+  text-align: center;
+}
+
+footer ul {
+  color: #00b233;
+}
+
+footer h4 {
+  margin-top: 0px;
+}
+
+footer ol {
+  text-align: center;
+  list-style-position: inside;
+  color: #00b233;
+}
+
+span.footerlistitem {
+  text-align: center;
+  color: #c1d7df;
+}
+
+aside h3 {
+    color: #c1d7df;
+    text-align: center;
+}
+
+aside {
+  color: white;
+  font-size: 15px;
+  background-color: orange;
+  margin: 10px;
+  padding: 0px 0px 10px 0px;
+}
+
+main {
+  margin-top: 0px;
+  background: #555;
+
+  margin-bottom: 10px;
+}
+
+body
+ {
+  background: #666;
+}
+
+a
+{
+  color: #c79ecb;
+}
+
+main li
+{
+  color: #00b233
+
+}
